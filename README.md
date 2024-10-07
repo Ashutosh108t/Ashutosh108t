@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Ashutosh108t
-- 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on develping apps
-- 📫 How to reach me ashutosh108t@gmail.com
+# Hi there, I'm Ashutosh 👋
 
-<!---
-Ashutosh108t/Ashutosh108t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 About Me
+I'm passionate about **Software Development** and **Artificial Intelligence**. I'm always excited to build innovative solutions and explore new technologies.
+
+### 🌱 Currently Learning
+I’m diving deep into **Web Development**, enhancing my skills to create functional and beautiful web applications.
+
+### 💼 Looking to Collaborate
+I'm eager to collaborate on exciting app development projects. Whether it's creating the next breakthrough app or contributing to cutting-edge AI solutions, I'm all in!
+
+### 📫 How to Reach Me
+Feel free to reach out if you're interested in working together or just want to connect:  
+**Email**: ashutosh108t@gmail.com
